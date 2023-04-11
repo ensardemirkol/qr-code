@@ -36,6 +36,7 @@ html, body, .container {
 
 .container .card .info h2 {
     font-size: 15px;
+    font-weight: 700;
     color: hsl(218, 44%, 22%);
     margin-bottom: 10px;
 }
